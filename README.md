@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AjayDiaz76
+- 🌱 I’m currently learning ... Web Development using Django and DSA using Python.
+- 📫 How to reach me ... [LinkedIn : www.linkedin.com/in/ajays76]
+- 😄 Pronouns: ... Ajay/He/Him
+- ⚡ Fun fact: ... Always ready to explore new things.
